@@ -1,16 +1,39 @@
-👁️ Smilex-Eye v20.0
-Developed by: 0x0smilex
+# 👁️ Smilex-Eye v20.0
 
-Smilex-Eye is a high-speed Shodan reconnaissance and deception-detection tool. It features a dynamic filter engine that automatically adjusts based on your Shodan API subscription tier.
+**Developed by:** `0x0smilex`
 
-✨ Features
-Master Filter Library: Access to 67+ specialized Shodan filters (Web, SSL, Cloud, ICS, and more).
+Smilex-Eye is a **high-speed Shodan reconnaissance and deception-detection tool**.  
+It features a **dynamic filter engine** that automatically adapts to your **Shodan API subscription tier**.
 
-Dynamic Tier-Awareness: Automatically hides filters your API plan doesn't support.
+---
 
-Honeypot Logic: Identifies deceptive systems using official Shodan tags and banner heuristics.
+## ⚠️ WARNING
 
-Exporting: Save clean IP lists for further scanning with tools like Nmap or Masscan.
+> **THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY.**  
+>  
+> The developer is not responsible for any misuse or illegal activity.  
+> Always ensure you have **explicit authorization** before scanning any systems.
 
-📥 Quick Setup & Installation
-To get started, clone the repository using git clone https://github.com/0x0smilex/smilex-eye.git && cd smilex-eye, then install the dependencies using pip install -r requirements.txt --break-system-packages to bypass environment restrictions on modern Linux systems. To run the tool globally as a command, execute mv smilex-eye.py smilex-eye && chmod +x smilex-eye && sudo mv smilex-eye /usr/local/bin/, ensuring you do not remove the Shebang line (#!/usr/bin/env python3) at the very top of the script as it is required for the system to execute the file without the .py extension.
+---
+
+## ✨ Features
+
+- Master Filter Library with **67+ specialized Shodan filters** (Web, SSL, Cloud, ICS, and more)
+- Dynamic Tier Awareness (unsupported filters are automatically hidden)
+- Honeypot Detection using official Shodan tags and banner heuristics
+- Export clean IP lists for tools such as **Nmap** and **Masscan**
+
+---
+
+## 📥 Quick Setup, Installation & Global Execution
+
+```bash
+git clone https://github.com/0x0smilex/smilex-eye.git && cd smilex-eye && pip install -r requirements.txt --break-system-packages && mv smilex-eye.py smilex-eye && chmod +x smilex-eye && sudo mv smilex-eye /usr/local/bin/
+The --break-system-packages flag is used to bypass environment restrictions on modern Linux systems.
+
+⚠️ IMPORTANT:
+Do NOT remove the shebang line at the very top of the script:
+
+bash
+Copy code
+#!/usr/bin/env python3
