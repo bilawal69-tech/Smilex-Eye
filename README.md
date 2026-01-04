@@ -31,7 +31,6 @@ It features a **dynamic filter engine** that automatically adapts to your **Shod
 git clone https://github.com/0x0smilex/smilex-eye.git && cd smilex-eye && pip install -r requirements.txt --break-system-packages && mv smilex-eye.py smilex-eye && chmod +x smilex-eye && sudo mv smilex-eye /usr/local/bin/
 The --break-system-packages flag is used to bypass environment restrictions on modern Linux systems.
 
-```bash
 IMPORTANT:
 Do NOT remove the shebang line at the very top of the script:
 
